@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.Cfengine'
 VERSION = '1.0'
 AUTHOR = 'Matt Ray & Mark Burgess'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Cfengine']
 INSTALL_REQUIRES = []
